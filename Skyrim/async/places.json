@@ -1,0 +1,37 @@
+[{
+    "name": "Whiterun", 
+    "location": "Center of Skyrim"
+}, 
+{
+    "name": "Windhelm", 
+    "location": "Northeast"
+}, 
+{
+    "name": "Markarth", 
+    "location": "Southwest"
+}, 
+{
+    "name": "Solitude", 
+    "location": "Northwest"
+}, 
+{
+    "name": "Riften", 
+    "location": "Southeast"
+},
+{
+    "name": "Dawnstar", 
+    "location": "Northeast"
+},
+{
+    "name": "Winterhold", 
+    "location": "Northeast"
+},
+{
+    "name": "Falkreath", 
+    "location": "Southeast"
+},
+{
+    "name": "Morthal", 
+    "location": "Northwest"
+}
+]
